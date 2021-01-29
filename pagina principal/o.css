@@ -1,0 +1,78 @@
+.p{
+	
+   top: 10%;
+   left: 30%;
+   width: 250px;
+   height: 250px;
+   background: url(m.jpeg);background-size: cover;
+   border-radius: 70%;
+   border:3px solid #5C0F71 ;
+}
+
+.f{
+	position: absolute;
+	top: 3%;
+   right: 4%;
+   width: 1000px;
+   height: 300px;
+   background-color: ;
+   border-radius: 20%;
+   
+   font-family: cursive;
+
+}
+.f2{ 
+	position: absolute;
+   top: 60%;
+   width: 10%;
+   height: 5%;
+   left: 20%;
+   background-color:#C11CD2 ;
+   border-radius: 20%;
+   border:2px solid #5C0F71;
+   font-family: cursive;
+}
+.f3{ 
+	position: absolute;
+   top: 60%;
+   width: 10%;
+   height: 5%;
+   left: 40%;
+   background-color:#C11CD2 ;
+   border-radius: 20%;
+   border:2px solid #5C0F71;
+   font-family: cursive;
+}
+
+.f4{ 
+	position: absolute;
+   top: 60%;
+   width: 10%;
+   height: 5%;
+   left: 60%;
+   background-color:#C11CD2 ;
+   border-radius: 20%;
+   border:2px solid #5C0F71;
+   font-family: cursive;
+}
+
+.f5{ 
+	position: absolute;
+   top: 60%;
+   width: 10%;
+   height: 5%;
+   left: 80%;
+   background-color: #C11CD2;
+   border-radius: 20%;
+   border:2px solid #5C0F71;
+   font-family: cursive;
+}
+a{
+	text-decoration: none;
+}
+.p1{
+	
+
+   background: url(ff.jpg);background-size: cover;
+  
+}
