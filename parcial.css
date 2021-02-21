@@ -7,7 +7,7 @@
 
 .f2{ 
    position: absolute;
-   top: 520%;
+   top: 550%;
    width: 10%;
    height: 5%;
    left: 20%;
@@ -18,7 +18,7 @@
 }
 .f3{ 
    position: absolute;
-   top: 520%;
+   top: 550%;
    width: 10%;
    height: 5%;
    left: 40%;
@@ -30,7 +30,7 @@
 
 .f4{ 
    position: absolute;
-   top: 520%;
+   top: 550%;
    width: 10%;
    height: 5%;
    left: 60%;
@@ -42,7 +42,7 @@
 
 .f5{ 
    position: absolute;
-   top: 520%;
+   top: 550%;
    width: 10%;
    height: 5%;
    left: 80%;
@@ -81,5 +81,17 @@ a{
    left: 0%;
    border-radius: 20px;
    background: url(cdp3.png);background-size: cover;
+
+}
+.text{
+position: absolute;
+   top: 515%;
+   right: 10%;
+   width: 200px;
+   height: 200px;
+   background-color:#C11CD2 ;
+   border-radius: 20%;
+   border:2px  solid #5C0F71;
+   font-family: cursive;
 
 }
