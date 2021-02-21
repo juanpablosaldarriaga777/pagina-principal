@@ -4,12 +4,23 @@
    background: url(ff.jpg);background-size: cover;
   
 }
-.f1{
+.act1{
     position: absolute;
    top: 40%;
    width: 10%;
    height: 5%;
    left: 20%;
+   background-color:#C11CD2 ;
+   border-radius: 20%;
+   border:2px solid #5C0F71;
+   font-family: cursive;
+}
+.act2{
+    position: absolute;
+   top: 40%;
+   width: 10%;
+   height: 5%;
+   left: 40%;
    background-color:#C11CD2 ;
    border-radius: 20%;
    border:2px solid #5C0F71;
