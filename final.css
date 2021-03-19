@@ -1,0 +1,83 @@
+.a{
+  position: absolute;
+   width: 70%;
+   height: 900px;
+   background: url(final1.png);
+   background-size: cover;
+   border:3px solid #5C0F71 ;
+    font-family: cursive;
+}
+.a2{
+  position: absolute;
+  top: 920px;
+   width: 70%;
+   height: 900px;
+   background: url(final2.png);
+   background-size: cover;
+   border:3px solid #5C0F71 ;
+    font-family: cursive;
+
+}
+.p1{
+   
+
+   background: url(ff.jpg);background-size: cover;
+  
+}
+
+.f2{ 
+   position: absolute;
+   top: 1840px;
+   width: 10%;
+   height: 5%;
+   left: 20%;
+   background-color:#C11CD2 ;
+   border-radius: 20%;
+   border:2px solid #5C0F71;
+   font-family: cursive;
+}
+.f3{ 
+   position: absolute;
+   top: 1840px;
+   width: 10%;
+   height: 5%;
+   left: 40%;
+   background-color:#C11CD2 ;
+   border-radius: 20%;
+   border:2px solid #5C0F71;
+   font-family: cursive;
+}
+
+.f4{ 
+   position: absolute;
+   top: 1840px;
+   width: 10%;
+   height: 5%;
+   left: 60%;
+   background-color:#C11CD2 ;
+   border-radius: 20%;
+   border:2px solid #5C0F71;
+   font-family: cursive;
+}
+
+.f5{ 
+   position: absolute;
+   top: 1840px;
+   width: 10%;
+   height: 5%;
+   left: 80%;
+   background-color: #C11CD2;
+   border-radius: 20%;
+   border:2px solid #5C0F71;
+   font-family: cursive;
+}
+.text{ 
+	position: absolute;
+	right: 1%;
+	width: 200px;
+	height: 200px;
+	background-color: #C11CD2;
+   border-radius: 20%;
+   border:2px solid #5C0F71;
+   font-family: cursive;
+}

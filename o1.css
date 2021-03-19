@@ -37,6 +37,17 @@
    border:2px solid #5C0F71;
    font-family: cursive;
 }
+.final{ 
+   position: absolute;
+   top: 40%;
+   width: 10%;
+   height: 5%;
+   left: 80%;
+   background-color: #C11CD2;
+   border-radius: 20%;
+   border:2px solid #5C0F71;
+   font-family: cursive;
+}
 
 .f{
 	position: absolute;
